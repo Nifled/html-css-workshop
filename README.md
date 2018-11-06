@@ -12,7 +12,7 @@ El HTML:
 
 ```html
 <casa>
-  <primer_pusi>
+  <primer_piso>
     <sala>
       <tele />
     </sala>
@@ -24,14 +24,14 @@ El HTML:
         <timbre>
       </puerta>
     </entrance>
-  </primer_pusi>
+  </primer_piso>
 
-  <second_floor>
+  <segundo_piso>
     <cuarto>
       <cama />
       <compu />
     </cuarto>
-  </second_floor>
+  </segundo_piso>
 </casa>
 ```
 
