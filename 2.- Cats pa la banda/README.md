@@ -280,7 +280,7 @@ button:hover {
 ```
 
 
-## Nyon Cat Sorpresa
+## Nyan Cat Sorpresa
 Agreguen este css al final de su archivo:
 
 ```css
@@ -311,4 +311,4 @@ body {
 }
 ```
 
-Como pueden ver, define una clase llamada `nyon-cat`. Creen un `<div></div>` asi vacio con la clse `nyon-cat` y coloquenlo en alguna parte del HTML (dentro del `body` claro).
+Como pueden ver, define una clase llamada `nyan-cat`. Creen un `<div></div>` asi vacio con la clse `nyan-cat` y coloquenlo en alguna parte del HTML (dentro del `body` claro).
