@@ -53,4 +53,8 @@ entrada puerta {
 ## Links
 [Guia de etiquetas de HTML](https://www.quackit.com/html_5/tags/)
 
+[Display Block, Inline-Block y Inline](https://www.w3schools.com/css/tryit.asp?filename=trycss_inline-block_span1)
+
+[Quiz HTML](https://www.w3schools.com/quiztest/quiztest.asp?qtest=HTML)
+
 [Flexbox Froggy](https://flexboxfroggy.com/#es)
