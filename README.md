@@ -53,6 +53,16 @@ entrada puerta {
 ## Links
 [Guia de etiquetas de HTML](https://www.quackit.com/html_5/tags/)
 
+Libreria de Bootstrap ([Componentes](https://getbootstrap.com/docs/4.1/components/card/)): agregan esto a su etiqueta `head` para usarlo.
+
+```html
+<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
+```
+
+[Codepen.io](https://codepen.io/)
+
+[Proyectos](https://www.quackit.com/html_5/tags/)
+
 [Display Block, Inline-Block y Inline](https://www.w3schools.com/css/tryit.asp?filename=trycss_inline-block_span1)
 
 [Quiz HTML](https://www.w3schools.com/quiztest/quiztest.asp?qtest=HTML)
