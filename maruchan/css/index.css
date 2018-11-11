@@ -1,0 +1,29 @@
+.jumbotron {
+  background: white;
+}
+
+.jumbotron .maruchan-img {
+  width: 100%;
+}
+
+.fila-home {
+  align-items: center;
+}
+
+.beneficios-card {
+  width: 100%;
+  height: 100%;
+  padding: 20px;
+}
+
+footer {
+  margin-top: 50px;
+  border: 1px solid black;
+}
+
+footer .container {
+  height: 60px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
